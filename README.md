@@ -9,7 +9,6 @@ A simple and professional web application to convert text into uppercase, lowerc
 - Real-time word and character count
 - Copy to clipboard
 - Clear text option
-
 ## Technologies Used
 - HTML
 - CSS
